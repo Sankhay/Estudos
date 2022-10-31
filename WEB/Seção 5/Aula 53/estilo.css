@@ -1,0 +1,41 @@
+* {
+	border: 1px solid red;
+}
+
+/*.verde {
+	color: green;
+} */
+
+/*p.verde {
+	color: green;
+}*/
+
+/* Seletor de filho, pega so filho diretamente*/
+/*li>span>a {
+	color: red;
+}*/
+
+/* Seletor de descendente, pega qualquer filho */
+
+/*li a {
+	color: green;
+} */
+
+/*p a {
+	color: rosybrown;
+} */
+
+/* Seletor de irmão adjacente, Seleciona um elemento que
+é o irmão próximo de outro */
+
+/*h1+p {
+	color: red;
+} */
+
+/*Seleciona um elemtno que é irmão do outro,
+embora ele não precise ser o elemento diretamente 
+precedente */
+
+h1~p {
+	color: pink;
+}

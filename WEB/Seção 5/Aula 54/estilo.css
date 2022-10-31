@@ -1,0 +1,26 @@
+
+* {
+	border: 1px solid blue;
+}
+
+.pagina p {
+	color: red !important;
+}
+
+.pagina p {
+	color: blue;
+}
+
+body {
+	color: red;
+	font-size: 25px;
+	border: 1px solid blue;
+}
+
+/* a regra especifica sempre sera aplicada */
+
+/*para aplicar classe */
+
+h2.verde {
+	color: green;
+}
