@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<head>
+
+</head>
+<body>
+    <h1>Tela De Cadastro</h1>
+    <input type="text" placeholder="name" id="nome">
+
+    <input type="text" placeholder="password" id="senha">
+
+    <input type="text" placeholder="cep" maxlength="8" id="cep">
+
+    <input type="text" placeholder="cpf" maxlength="11" id="cpf">
+
+    <input type="text" placeholder="email" id="email">
+
+    <input type="text" placeholder="phone" id="phone">
+
+    <input type="text" placeholder="secondary_phone" id="secondary_phone">
+
+    <input type="submit" onclick="signIn()">
+
+
+
+
+
+    <h1>Tela De Login</h1>
+    <input type="text" id="email2" placeholder="email">
+    <input type="text" id="password" placeholder="password">
+    <input type="submit" onclick="login()" value="Fazer Login">
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        function signIn() {
+            nome = document.getElementById('nome').value;
+            senha = document.getElementById('senha').value;
+            cep = document.getElementById('cep').value;
+            cpf = document.getElementById('cpf').value;
+            email = document.getElementById('email').value;
+            phone = document.getElementById('phone').value;
+            secondary_phone = document.getElementById('secondary_phone').value;
+
+            $.ajax({
+                type: 'POST',
+                url: '/sendData',
+                data: {nome: nome, senha: senha, cep: cep, cpf: cpf, email: email, phone: phone, secondary_phone: secondary_phone}
+            });
+        }
+
+
+
+
+
+        function setCookie(name, value, daysToLive) {
+            const date = new Date();
+            date.setTime(date.getTime() + daysToLive * 24 * 6 * 60 * 1000);
+            let expires = "expires=" + date.toUTCString();
+            document.cookie = `${name}=${value}; ${expires}; path=/`
+        }
+
+        function getCookie(name) {
+        const cDecoded = decodeURIComponent(document.cookie);
+        console.log(cDecoded)
+        const cArray = cDecoded.split("; ")
+        console.log(cArray)
+        let result = null;
+        cArray.forEach(element => {
+            if(element.indexOf(name) == 0) {
+                result = element.substring(name.length + 1)
+                console.log(element)
+            } else {
+                console.log(element.indexOf(name))
+            }
+        })
+        return result;
+    }
+
+
+        let response2;
+
+        function login() {
+            email = document.getElementById('email2').value
+            password = document.getElementById('password').value
+            $.ajax({
+            type: 'POST',
+            url: '/getData',
+            data: {email: email, password: password},
+            success: function(response) {
+                
+                response2 = JSON.stringify(response.token);
+                console.log(response2)
+                setCookie('token', response2, 1);
+                token = getCookie('token');
+                console.log(token)
+                }
+        });
+}
+    </script>
+</body>
