@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Formulário</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script> 
+    <script>
+        function makeClient() {
+            var phone_area = document.getElementById("phone_area").value;
+            var phone = document.getElementById("phone").value;
+            var birthdate = document.getElementById("birthdate").value;
+            var id = document.getElementById("id").value;
+            var nome = document.getElementById("nome").value;
+            var email = document.getElementById("email").value;
+            var cpf = document.getElementById("cpf").value;
+            var data = {
+                "phone_area": phone_area,
+                "phone": phone,
+                "birthdate": birthdate,
+                "id": id,
+                "nome": nome,
+                "email": email,
+                "cpf": cpf,
+            }
+            
+
+            $.ajax({
+                type: "POST",
+                url: '/makeClient',
+                data: JSON.stringify(data),
+                contentType: 'application/json',
+                success: function(response) {
+                    console.log(response)
+                    window.location.href = response
+                },
+                error: function(error) {
+                    console.log(error)
+                }
+            })
+
+            // Faça o que quiser com os dados capturados
+            
+
+            // Limpar o formulário (opcional)
+           // document.getElementById("myForm").reset();
+        }
+    </script>
+</head>
+<body>
+    <form id="myForm">
+        <label for="phone_area">Phone Area:</label>
+        <input type="text" id="phone_area" placeholder="DDD"><br>
+
+        <label for="phone">Phone:</label>
+        <input type="text" id="phone" placeholder="numero"><br>
+
+        <label for="birthdate">Birthdate:</label>
+        <input type="text" id="birthdate" placeholder="07/06/2002"><br>
+
+        <label for="id">ID:</label>
+        <input type="text" id="id" placeholder="codigo id"><br>
+
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" placeholder="Nome"><br>
+
+        <label for="email">Email:</label>
+        <input type="text" id="email" placeholder="Email"><br>
+
+        <label for="cpf">CPF:</label>
+        <input type="text" id="cpf" placeholder="cpf"><br>
+
+        <button type="button" onclick="makeClient()">Enviar</button>
+    </form>
+</body>
+</html>
