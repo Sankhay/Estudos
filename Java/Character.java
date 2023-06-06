@@ -1,34 +1,44 @@
 class Character {
-    private String name;
+    public String name;
     public int healthPoints;
-    private Usar_Arma Usar_Arma;
+    public Usar_Arma Usar_Arma;
 
     public Character(String name, int healthPoints) {
         this.name = name;
         this.healthPoints = healthPoints;
     }
 
+    public Usar_Arma getUsar_Arma() {
+        return Usar_Arma;
+    }
+
+    public void setUsar_Arma(Usar_Arma usar_Arma) {
+        this.Usar_Arma = usar_Arma;
+    }
+
     public void ChooseName(String nome) {
         this.name = nome;
     }
 
-    public void attack(Character opponent) {
-        int damagePoints = Usar_Arma.getDamage();
-        opponent.takeDamage(damagePoints);
+    public String attack(Character opponent) {
+        int damagePoints = getUsar_Arma().getDamage();
         System.out.println(this.name + " attacked " + opponent.getName() + " for " + damagePoints + " damage.");
+        opponent.takeDamage(damagePoints);
+        return name;
     }
 
     public String correr() {
         System.out.println("Correu Igual um Covarde");
-        return "correu Igual um COVARDE";
-    }
+        return "covarde";
+        }
 
     public void takeDamage(int damage) {
         this.healthPoints -= damage;
-        System.out.println(this.name + " took " + damage + " damage.");
         System.out.println("Now " + this.name + " have " + this.healthPoints + " of life");
+        System.out.println(' ');
         if (this.healthPoints <= 0) {
             System.out.println(this.name + " has been defeated.");
+            System.out.println(' ');
         }
     }
 
@@ -41,7 +51,8 @@ class Character {
     }
 
     public void equipWeapon(Usar_Arma Usar_Arma) {
-        this.Usar_Arma = Usar_Arma;
+        this.setUsar_Arma(Usar_Arma);
         System.out.println(this.name + " has equipped a " + Usar_Arma.getName() + " .");
+        System.out.println(' ');
     }
 }
