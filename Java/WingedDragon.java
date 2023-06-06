@@ -24,7 +24,7 @@ class WingedDragon extends Character {
         } else if (arma.equalsIgnoreCase("Onslaught")) {
             this.equipWeapon(onslaught);
             break;
-        } else if (arma.equalsIgnoreCase("Sword")) {
+        } else if (arma.equalsIgnoreCase("Breath of fire")) {
             this.equipWeapon(breath_of_fire);
             break;
         } else {
@@ -34,6 +34,16 @@ class WingedDragon extends Character {
         }
         }
 }
+
+    public void Correr() {
+
+    }
+
+    public void Voar() {
+        this.healthPoints = 0;
+        System.out.println("Voce voa igual um dragao covarde e inutil");
+        System.out.println(" ");
+    }
 
     public void agility() {
         System.out.println("O Dragão voa rapido com o poder dos ventos");
@@ -52,11 +62,12 @@ class WingedDragon extends Character {
         if (result) {
             System.out.println("O Dragão Sofre o Dano de " + damage + "!!!");
             System.out.println(' ');
-            this.healthPoints -= damage;
+            super.takeDamage(damage);
         } else {
             System.out.println("É incrivel o Dragão Desvia");
             System.out.println(' ');
         }
+        
     }
 }
 

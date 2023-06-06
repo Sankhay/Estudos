@@ -46,7 +46,7 @@ class Knight extends Character {
 
     public void defend() {
         isDefending = true;
-        System.out.println(getName() + " is defending and will block the next attack!");
+        System.out.println(getName() + " Esta defendendo e vai bloquear o proximo ataque!");
         System.out.println(' ');
     }
 }

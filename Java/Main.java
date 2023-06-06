@@ -24,6 +24,7 @@ public class Main {
 
     static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
+        System.out.println("Voce não tem a menor chance");
         while (true) {
             System.out.println("Escolha o seu campeão Knight Wizard or WingedDragon");
             String input = scanner.nextLine();
@@ -62,6 +63,7 @@ public class Main {
 
                 while (true) {
                     System.out.println("Poderoso " + Player.getName() + " Escolha sua arma entre Orb, Staff and Wands");
+                    System.out.println(" ");
                     String weapon = scanner.nextLine();
                     if (weapon.equalsIgnoreCase("Orb")) {
                         Player.equipWeapon(orb);
@@ -109,7 +111,7 @@ public class Main {
         System.out.println("Escolha seu adversario Knight, Wizard ou WingedDragon");
         String adversario = scanner.nextLine();
         if (adversario.equalsIgnoreCase("Knight")) {
-            Player2 = new Knight("Destruidor de mundos", 150);
+            Player2 = new Knight("Destruidor de mundos", 175);
             int chance = random.nextInt(100);
             if (chance < 34) {
                 Player2.equipWeapon(sword);
@@ -120,7 +122,7 @@ public class Main {
             }
             break;
         } else if (adversario.equalsIgnoreCase("Wizard")) {
-            Player2 = new Wizard("Patolino o mago", 100);
+            Player2 = new Wizard("Patolino o mago", 150);
             int chance = random.nextInt(100);
             if (chance < 34) {
                 Player2.equipWeapon(orb);
@@ -152,7 +154,7 @@ public class Main {
     if (Player instanceof Knight) {
         Knight knight = (Knight) Player;
         // Chamadas de métodos específicos de Knight
-            System.out.println("Escolha seu proximo movimento Atacar, Defender, Trocar Arma");
+            System.out.println("Escolha seu proximo movimento Atacar, Defender, Trocar Arma, Correr");
             System.out.println(' ');
             String acao = scanner.nextLine();
             System.out.println(' ');
@@ -162,6 +164,8 @@ public class Main {
                 knight.defend();
             } else if (acao.equalsIgnoreCase("Trocar Arma")) {
                 knight.changeWeapon();
+            } else if (acao.equalsIgnoreCase("Correr")) {
+                Player.Correr();
             }
              else {
                 System.out.println("Não digitou certo perdeu a vez PARABENS!!!");
@@ -170,16 +174,40 @@ public class Main {
 
         } else if (Player instanceof Wizard) {
             Wizard wizard = (Wizard) Player;
-            System.out.println("Escolha seu proximo movimento Atacar, FireBall");
+            System.out.println("Escolha seu proximo movimento Atacar, FireBall, Trocar Arma, Carregar Mana, Correr");
             System.out.println(' ');
             String acao = scanner.nextLine();
+            System.out.println(" ");
             if (acao.equalsIgnoreCase("Atacar")) {
                 wizard.attack(Player2);
-            } if (acao.equalsIgnoreCase("Fireball")) {
+            } else if (acao.equalsIgnoreCase("Fireball")) {
                 wizard.FireBall(Player2);
-            } else {
+            } else if (acao.equalsIgnoreCase("Trocar Arma")) {
+                wizard.changeWeapon();
+            } else if (acao.equalsIgnoreCase("Carregar Mana")) {
+                wizard.LoadMana();
+            } else if (acao.equalsIgnoreCase("Correr")) {
+                wizard.Correr();
+            }
+             else {
                 System.out.println("Digitou errado perdeu a vez");
                 System.out.println(' ');
+            }
+        } else if (Player instanceof WingedDragon) {
+            WingedDragon dragon = (WingedDragon) Player;
+            System.out.println("Escolha seu proximo movimento Atacar, Agilidade ou Voar"); 
+            System.out.println(" ");
+            String acao = scanner.nextLine();
+            System.out.println(" ");
+            if (acao.equalsIgnoreCase("Atacar")) {
+                dragon.attack(Player2);
+            } else if (acao.equalsIgnoreCase("Agilidade")) {
+                dragon.agility();
+            } else if (acao.equalsIgnoreCase("Voar")) {
+                dragon.Voar();
+            }
+             else {
+                System.out.println("Parabens digitou errado perdeu a vez");
             }
         }
      if (Player2 instanceof Knight) {
@@ -200,19 +228,35 @@ public class Main {
     Wizard wizard2 = (Wizard) Player2;
     String acao = null;
     int chance = random.nextInt(100);
-    if (chance > 50) {
+    if (chance > 25) {
         acao = "Atacar";
     } else {
         acao = "Fireball";
     }
     if (acao.equalsIgnoreCase("Atacar")) {
         wizard2.attack(Player);
-    } if (acao.equalsIgnoreCase("Fireball")) {
+    } else if (acao.equalsIgnoreCase("Fireball")) {
         wizard2.FireBall(Player);
     }
-  }}
-    
-    }};
+  } else {
+    WingedDragon wingedDragon2 = (WingedDragon) Player2;
+    String acao = null;
+    int chance = random.nextInt(100);
+    if (chance > 25) {
+        acao = "Atacar";
+    } else {
+        acao = "Agility";
+    }
+    if (acao.equalsIgnoreCase("Atacar")) {
+        wingedDragon2.attack(Player);
+    } else if (acao.equalsIgnoreCase("Agility")) {
+        wingedDragon2.agility();
+    }
+
+} 
+  }
+}
+    };
 
     
 

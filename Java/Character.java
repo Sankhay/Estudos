@@ -22,22 +22,24 @@ class Character {
 
     public String attack(Character opponent) {
         int damagePoints = getUsar_Arma().getDamage();
-        System.out.println(this.name + " attacked " + opponent.getName() + " for " + damagePoints + " damage.");
+        System.out.println(this.name + " Atacou " + opponent.getName() + " em " + damagePoints + " de dano.");
+        System.out.println(" ");
         opponent.takeDamage(damagePoints);
         return name;
     }
 
-    public String correr() {
-        System.out.println("Correu Igual um Covarde");
-        return "covarde";
-        }
+    public void Correr() {
+        this.healthPoints = 0;
+        System.out.println("Voce corre igual um covarde");
+        System.out.println(" ");
+    }
 
     public void takeDamage(int damage) {
         this.healthPoints -= damage;
-        System.out.println("Now " + this.name + " have " + this.healthPoints + " of life");
+        System.out.println("Agora " + this.name + " tem " + this.healthPoints + " de vida");
         System.out.println(' ');
         if (this.healthPoints <= 0) {
-            System.out.println(this.name + " has been defeated.");
+            System.out.println(this.name + " Foi derrotado.");
             System.out.println(' ');
         }
     }
@@ -52,7 +54,7 @@ class Character {
 
     public void equipWeapon(Usar_Arma Usar_Arma) {
         this.setUsar_Arma(Usar_Arma);
-        System.out.println(this.name + " has equipped a " + Usar_Arma.getName() + " .");
+        System.out.println(this.name + " equipou uma " + Usar_Arma.getName() + " .");
         System.out.println(' ');
     }
 }

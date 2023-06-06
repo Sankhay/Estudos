@@ -9,13 +9,21 @@ class Wizard extends Character {
         Mana = 100;
     }
 
+    public void LoadMana() {
+        System.out.println("O mago carrega o seu infinito poder");
+        System.out.println(" ");
+        Mana = Mana + 30;
+    }
+
     public void FireBall(Character oponnent) {
         if (Mana == 0) {
             System.out.println("Devia ter contado sua mana ta sem perdeu o round PARABENS!!!");
+            System.out.println(' ');
         } else {
-            oponnent.takeDamage(10);
+            oponnent.takeDamage(17);
             this.Mana = Mana - 10;
-            System.out.println(oponnent.getName() + "Tomou 10 de dano!");
+            System.out.println(oponnent.getName() + "Tomou 17 de dano!");
+            System.out.println(' ');
         }
         
     }
