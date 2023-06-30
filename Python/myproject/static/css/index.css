@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+
+.col {
+    color: white;
+    border: 1px solid red;
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+    background-color: green;
+}
+
