@@ -2,7 +2,7 @@ import time
 from selenium import webdriver
 from selenium.common.exceptions import TimeoutException
 from restartModem import restartModem
-from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.chrome.options import Options
 from getCarInfo import getCarInfo
 from bs4 import BeautifulSoup
 import random
@@ -75,7 +75,7 @@ c = 0
 
 for index, link2 in enumerate(completo[49:], start=49):
         options.add_argument(user_agent())
-        driver = webdriver.Firefox(executable_path='geckodriver', options=options)
+        driver = webdriver.Chrome(options=options)
         driver.set_page_load_timeout(10)
         try:
             try:
