@@ -1,0 +1,40 @@
+Audi A1 Sportback Attraction 1.4 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+Audi A1 Sportback Attraction 1.4 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+Audi A1 Sportback Sport 1.4 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+Audi A1 Sportback Attraction 1.4 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+Audi A1 Sportback Sport 1.4 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+Audi A1 Sportback Attraction 1.4 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+Audi A1 Attraction 1.4 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+Audi A1 Sportback Attraction 1.4 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+Audi A1 Attraction 1.4 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+Audi A1 Sportback Attraction 1.4 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+Audi A1 Attraction 1.4 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+Audi A1 Attraction 1.4 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+Audi A3 Sportback 1.6
+'NoneType' object has no attribute 'find_next_sibling'
+Audi A3 Cabriolet 2.0 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+Audi A3 Cabriolet 2.0 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+Audi A3 Cabriolet 2.0 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+Audi A3 Cabriolet 1.8 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+Audi A3 Cabriolet 1.8 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+Segurança
+list index out of range
+Segurança
+list index out of range

@@ -15,16 +15,17 @@ def reiniciar_pagina(driver):
     except:
         pass
 # Configure ChromeOptions to set user agent
-options = Options()
-options.add_argument("--disable-blink-features=AutomationControlled")
-options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36")
+chrome_options = Options()
+chrome_options.add_argument("--headless")  # Enable headless mode
+chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36")
 
 #linksFabricantes = []
 linksCatalogo = []
 linksYearsCar = []
 linksCarros = []
 
-driver = webdriver.Chrome(options=options)
+driver = webdriver.Chrome(options=chrome_options)
 driver.set_page_load_timeout(10)
 carrosNaWeb = "https://www.carrosnaweb.com.br/"
 
@@ -33,6 +34,7 @@ html = driver.page_source
 linksFabricantes = getFabri(html)
 for link in linksFabricantes:
     try:
+        print(carrosNaWeb + link)
         driver.get(carrosNaWeb + link)
         time.sleep(1)
         html = driver.page_source
@@ -50,11 +52,13 @@ for link in linksFabricantes:
 for link1 in linksCatalogo:
     for link2 in link1:
         try:
+            print(carrosNaWeb + link2)
             driver.get(carrosNaWeb + link2)
             time.sleep(1)
             html = driver.page_source
             allYearsLinks = getLinksYears(html)
-            linksYearsCar.append(allYearsLinks)
+            if allYearsLinks != []:
+                linksYearsCar.append(allYearsLinks)
         except TimeoutException:
             print("reiniciando pagina")
             reiniciar_pagina(driver)
@@ -63,17 +67,29 @@ for link1 in linksCatalogo:
             allYearsLinks = getLinksYears(html)
             if allYearsLinks != []:
                 linksYearsCar.append(allYearsLinks)
+
+arquivo = "linkYearsCar.txt"
+dados = "\n".join(" ".join(str(item) for item in sublist) for sublist in linksYearsCar)
+
+with open(arquivo, "w") as arquivo:
+    arquivo.write(dados)
                 
 for link1 in linksYearsCar:
     for link2 in link1:
         try:
-            driver.get(carrosNaWeb + link2)
-            time.sleep(1)
-            url_atual = driver.current_url
-            if url_atual == 'https://www.carrosnaweb.com.br/erro.asp':
-                restartModem()
-                time.sleep(120)
+            while True:
+                print(carrosNaWeb + link2)
                 driver.get(carrosNaWeb + link2)
+                time.sleep(5)
+                url_atual = driver.current_url
+                if url_atual == 'https://www.carrosnaweb.com.br/erro.asp':
+                    restartModem()
+                    driver.quit()
+                    time.sleep(120)
+                    driver = webdriver.Chrome()
+                    time.sleep(5)
+                else:
+                    break
         except TimeoutException:
             print("reiniciando pagina")
             reiniciar_pagina(driver)
@@ -92,30 +108,40 @@ for link1 in linksYearsCar:
                 link_real = parent_element.get('href')
                 link_completo = carrosNaWeb + link_real
                 try:
-                    driver.get(carrosNaWeb + link_real)
+                    driver.get(link_completo)
                     time.sleep(1)
                     url_atual = driver.current_url
                     if url_atual == 'https://www.carrosnaweb.com.br/erro.asp':
                         restartModem()
+                        driver.quit()
                         time.sleep(120)
-                        driver.get(carrosNaWeb + link_real)
+                        driver = webdriver.Chrome()
+                        time.sleep(5)
+                        driver.get(link_completo)
+                        time.sleep(5)
                 except TimeoutException:
                     print("reiniciando pagina")
                     reiniciar_pagina(driver)
             else:
                 print('Não tem mais')
                 break
-            
+
 
 for link in linksCarros:
     try:
-        driver.get(carrosNaWeb + link)
-        time.sleep(1)
-        url_atual = driver.current_url
-        if url_atual == 'https://www.carrosnaweb.com.br/erro.asp':
-            restartModem()
-            time.sleep(120)
+        while True:
+            print(carrosNaWeb + link)
             driver.get(carrosNaWeb + link)
+            time.sleep(5)
+            url_atual = driver.current_url
+            if url_atual == 'https://www.carrosnaweb.com.br/erro.asp':
+                restartModem()
+                driver.quit()
+                time.sleep(120)
+                driver = webdriver.Chrome()
+                time.sleep(5)
+            else:
+                break
     except TimeoutException:
         print('reiniciando pagina')
         reiniciar_pagina(driver)
@@ -125,4 +151,5 @@ for link in linksCarros:
     getCarInfo(html)
 
 print("ELE FUNCIONOU CARALHO HUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU")
+
 

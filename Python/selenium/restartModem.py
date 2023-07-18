@@ -46,5 +46,5 @@ def restartModem():
     # Encerre o driver do Selenium
     driver.quit()
 
-
     # Inicialize o driver do Selenium (você precisará ter o driver correspondente ao seu navegador instalado)
+restartModem()
