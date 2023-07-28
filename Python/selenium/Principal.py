@@ -16,7 +16,6 @@ def reiniciar_pagina(driver):
         pass
 # Configure ChromeOptions to set user agent
 chrome_options = Options()
-chrome_options.add_argument("--headless")  # Enable headless mode
 chrome_options.add_argument("--disable-blink-features=AutomationControlled")
 chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36")
 
@@ -73,6 +72,8 @@ dados = "\n".join(" ".join(str(item) for item in sublist) for sublist in linksYe
 
 with open(arquivo, "w") as arquivo:
     arquivo.write(dados)
+
+time.sleep(10000000000)
                 
 for link1 in linksYearsCar:
     for link2 in link1:

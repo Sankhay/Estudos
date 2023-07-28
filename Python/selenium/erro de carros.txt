@@ -1,40 +1,2297 @@
 Audi A1 Sportback Attraction 1.4 TFSi
 'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8012
 Audi A1 Sportback Attraction 1.4 TFSi
 'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7222
 Audi A1 Sportback Sport 1.4 TFSi
 'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7223
 Audi A1 Sportback Attraction 1.4 TFSi
 'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5183
 Audi A1 Sportback Sport 1.4 TFSi
 'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6486
 Audi A1 Sportback Attraction 1.4 TFSi
 'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3336
 Audi A1 Attraction 1.4 TFSi
 'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5225
 Audi A1 Sportback Attraction 1.4 TFSi
 'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5228
 Audi A1 Attraction 1.4 TFSi
 'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5206
 Audi A1 Sportback Attraction 1.4 TFSi
 'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1509
 Audi A1 Attraction 1.4 TFSi
 'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5224
 Audi A1 Attraction 1.4 TFSi
 'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1138
 Audi A3 Sportback 1.6
 'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3835
 Audi A3 Cabriolet 2.0 TFSi
 'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10130
 Audi A3 Cabriolet 2.0 TFSi
 'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8591
 Audi A3 Cabriolet 2.0 TFSi
 'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9734
 Audi A3 Cabriolet 1.8 TFSi
 'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4443
 Audi A3 Cabriolet 1.8 TFSi
 'NoneType' object has no attribute 'find_next_sibling'
-Segurança
-list index out of range
-Segurança
-list index out of range
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2343
+Audi A5 Coupe 2.0 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10888
+Audi A5 Coupe 2.0 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10890
+Audi A5 Coupe 2.0 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1471
+Audi A6 3.0 V6 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10316
+Audi A6 3.0 V6 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10315
+Audi A6 3.0 V6 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1273
+Audi A6 3.0 V6 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10647
+Audi A6 3.0 V6 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=19015
+Audi A6 Avant 3.0 V6 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10863
+Audi A6 Avant 3.0 V6 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10979
+Audi A6 Avant 3.0 V6 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11364
+Audi A7 3.0 V6 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10319
+Audi A7 3.0 V6 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10318
+Audi A7 3.0 V6 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10317
+Audi A7 3.0 V6 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1204
+Audi Q3 Ambiente 1.4 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5935
+Audi Q3 Ambition 1.4 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7071
+Audi Q3 Attraction 1.4 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5934
+Audi Q3 Ambiente 1.4 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2963
+Audi Q3 Attraction 1.4 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2962
+Audi Q3 Ambiente 2.0 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6420
+Audi Q3 Attraction 2.0 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6419
+Audi Q3 Ambiente 2.0 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10252
+Audi Q3 Attraction 2.0 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10253
+Audi Q3 Ambiente 2.0 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6418
+Audi Q3 Attraction 2.0 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1313
+Audi Q7 Performance 3.0 V6 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=21634
+Audi Q7 Performance Black 3.0 V6 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=21635
+Audi Q7 3.0 V6 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=18946
+Audi Q7 Performance 3.0 V6 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=19916
+Audi Q7 Performance Black 3.0 V6 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=19917
+Audi Q7 S Line 3.0 V6 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=18947
+Audi Q7 3.0 V6 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=16430
+Audi Q7 S Line 3.0 V6 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=16431
+Audi Q7 3.0 V6 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=15435
+Audi Q7 S Line 3.0 V6 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=15436
+Audi Q7 Performance Black 3.0 V6 TDi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=21946
+Audi Q7 Ambition 3.0 V6 TDi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9869
+Audi Q7 Ambition 3.0 V6 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9868
+Audi Q7 Ambition 3.0 V6 TDi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8372
+Audi Q7 Ambition 3.0 V6 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8371
+Audi Q7 Ambition 3.0 V6 TDi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7441
+Audi Q7 Ambition 3.0 V6 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7374
+Audi Q7 Ambition 3.0 V6 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5346
+Audi Q7 Ambition 3.0 V6 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3576
+Audi Q7 Ambiente 3.0 V6 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3575
+Audi Q7 3.0 V6 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10323
+Audi Q7 3.0 V6 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5574
+Audi Q7 3.0 V6 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10740
+Audi Q7 3.0 V6 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3570
+Audi Q7 4.2 V8 FSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9817
+Audi R8 5.2 V10
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1068
+Audi R8 Spyder 5.2 V10
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4059
+Audi R8 Spyder 5.2 V10
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10524
+Audi R8 Spyder 5.2 V10
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10523
+Audi R8 Spyder 5.2 V10
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=14478
+Audi R8 Spyder 5.2 V10
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2563
+Audi RS 3 Sportback 2.5 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5238
+Audi RS 3 Sportback 2.5 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1294
+Audi RS 5 4.2 V8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4026
+Audi RS 5 4.2 V8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4652
+Audi RS 5 4.2 V8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10829
+Audi RS 5 4.2 V8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1169
+Audi RS 6 5.0 V10 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11677
+Audi RS 6 5.0 V10 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1059
+Audi RS 6 Avant 5.0 V10 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11678
+Audi RS 6 Avant 5.0 V10 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4158
+Audi RS 7 Sportback Performance 4.0 V8 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7994
+Audi RS 7 Sportback Performance 4.0 V8 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6898
+Audi RS 7 Sportback 4.0 V8 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5784
+Audi RS 7 Sportback 4.0 V8 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2840
+Audi RS 7 Sportback 4.0 V8 TFSi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2192
+Audi S6 4.0 V8 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5781
+Audi S6 4.0 V8 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5380
+Audi S6 4.0 V8 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10329
+Audi S6 4.0 V8 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10328
+Audi TT RS 2.5 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10662
+Audi TT RS Roadster 2.5 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10660
+Audi TT RS 2.5 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10661
+Audi TT RS Roadster 2.5 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10659
+Audi TT RS 2.5 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1497
+Audi TT RS Roadster 2.5 TFSi Quattro
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4637
+BMW 220i Active Tourer 2.0 Turbo
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7841
+BMW 220i Active Tourer 2.0 Turbo
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6494
+BMW 220i Active Tourer 2.0 Turbo
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5452
+BMW i3 REX Full
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=16395
+BMW i3 REX Connected
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=12994
+BMW i3 REX
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=12993
+BMW i3 REX Full
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11664
+BMW i3 REX
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10135
+BMW i3 REX Full
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10137
+BMW i3 REX Connected
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10136
+BMW i3 REX
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9204
+BMW i3 REX Full
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9206
+BMW i3 REX Connected
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9205
+BMW i3 REX Full
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9203
+BMW i3 REX
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2357
+BMW X1 sDrive20i GP Plus 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=19467
+BMW X1 sDrive20i X-Line Plus 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=19468
+BMW X1 sDrive20i Outdoor 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=20241
+BMW X1 sDrive20i M Sport Plus 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=19469
+BMW X1 sDrive20i 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=18452
+BMW X1 sDrive20i X-Line 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=18453
+BMW X1 sDrive20i M Sport 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=18780
+BMW X1 sDrive20i 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=15759
+BMW X1 sDrive20i X-Line 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=15760
+BMW X1 sDrive20i M Sport 25 anos 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=17158
+BMW X1 sDrive20i 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=13103
+BMW X1 sDrive20i X-Line 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=13104
+BMW X1 sDrive20i 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9605
+BMW X1 sDrive20i X-Line 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9606
+BMW X1 sDrive20i 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7768
+BMW X1 sDrive20i X-Line 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9421
+BMW X1 sDrive20i X-Line 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=22481
+BMW X1 sDrive20i 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6762
+BMW X1 sDrive20i X-Line 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=17122
+BMW X1 sDrive20i 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4812
+BMW X2 sDrive20i 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=18320
+BMW X2 sDrive20i 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=16397
+BMW X2 sDrive20i 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=12183
+BMW X2 sDrive20i M Sport X 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=12414
+BMW X2 sDrive20i 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10171
+BMW X2 sDrive20i M Sport X 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10172
+BMW X2 sDrive20i 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8730
+BMW X2 sDrive20i M Sport X 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9215
+BMW X2 sDrive20i M Sport X 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8731
+BMW X5 M50d 3.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=12407
+BMW X5 xDrive30d M Sport 3.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=12992
+BMW X5 xDrive30d 3.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10273
+BMW X5 M50d 3.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10272
+BMW X5 xDrive30d M Sport 3.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10274
+BMW X5 xDrive30d M Sport xOffroad 3.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10275
+BMW X5 M50d 3.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8861
+BMW X5 xDrive30d 3.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7771
+BMW X5 M50d 3.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8860
+BMW X5 xDrive30d 3.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6343
+BMW X5 xDrive30d 3.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4404
+BMW X5 M50d 3.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4143
+BMW X5 xDrive35i 3.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10381
+BMW X5 xDrive50i 4.4 V8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10764
+BMW X5 xDrive35i 3.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10762
+BMW X5 M 4.4 V8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10763
+BMW X5 xDrive35i 3.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5474
+BMW X5 xDrive50i 4.4 V8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5475
+BMW X5 M 4.4 V8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5473
+BMW X5 3.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11379
+BMW X5 M 4.4 V8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=14810
+BMW X7 M50i 4.4 V8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=18321
+BMW X7 Dark Shadow M50i 4.4 V8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=17913
+BMW X7 M50i 4.4 V8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=16399
+BMW X7 M50i 4.4 V8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=14424
+BMW X7 xDrive50i 4.4 V8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=12751
+BMW X7 xDrive50i 4.4 V8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=12507
+BYD Tan EV
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=21705
+BYD Tan EV
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=19285
+Chery Tiggo 8 Pro Hybrid 1.5
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=26343
+Chery Tiggo 8 Max Drive 1.6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=23293
+Chery Tiggo 8 Founders Edition 1.6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=26345
+Chery Tiggo 8 TXS 1.6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=19589
+Chery Tiggo 8 Pro Hybrid 1.5
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=20855
+Chery Tiggo 8 Founders Edition 1.6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=19771
+Chery Tiggo 8 Max Drive 1.6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=21242
+Chevrolet Spin LT 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=23777
+Chevrolet Spin Premier 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=23779
+Chevrolet Spin LT 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=19700
+Chevrolet Spin Premier 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=19702
+Chevrolet Spin Activ7 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=19704
+Chevrolet Spin Premier 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=18179
+Chevrolet Spin Premier 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=18180
+Chevrolet Spin Activ7 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=18182
+Chevrolet Spin Premier 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=15212
+Chevrolet Spin Premier 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=15213
+Chevrolet Spin Activ7 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=15215
+Chevrolet Spin Premier 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11792
+Chevrolet Spin Premier 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11793
+Chevrolet Spin Activ7 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11794
+Chevrolet Spin LTZ 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9344
+Chevrolet Spin LTZ 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9345
+Chevrolet Spin Activ7 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9251
+Chevrolet Spin LTZ 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7570
+Chevrolet Spin LTZ 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7567
+Chevrolet Spin LTZ 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6377
+Chevrolet Spin LTZ 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6378
+Chevrolet Spin LTZ 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2600
+Chevrolet Spin LTZ 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2601
+Chevrolet Spin Advantage 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5129
+Chevrolet Spin LT 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5125
+Chevrolet Spin LTZ 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5127
+Chevrolet Spin Advantage 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3720
+Chevrolet Spin LT 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4848
+Chevrolet Spin LTZ 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4850
+Chevrolet Spin LT 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3718
+Chevrolet Spin LTZ 1.8 AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1456
+Chevrolet Suburban LTZ 5.3 V8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6865
+Chevrolet Trailblazer Premier 2.8 CTDi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=24658
+Chevrolet Trailblazer Premier 2.8 CTDi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=19742
+Chevrolet Trailblazer Premier 2.8 CTDi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=18048
+Chevrolet Trailblazer Premier 2.8 CTDi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=15479
+Chevrolet Trailblazer Premier 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=12118
+Chevrolet Trailblazer Premier 2.8 CTDi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=12119
+Chevrolet Trailblazer LTZ 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9238
+Chevrolet Trailblazer LTZ 2.8 CTDi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9239
+Chevrolet Trailblazer LTZ 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7627
+Chevrolet Trailblazer LTZ 2.8 CTDi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7628
+Chevrolet Trailblazer LTZ 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5951
+Chevrolet Trailblazer LTZ 2.8 CTDi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5952
+Chevrolet Trailblazer LTZ 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4228
+Chevrolet Trailblazer LTZ 2.8 CTDi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4229
+Chevrolet Trailblazer LTZ 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2408
+Chevrolet Trailblazer LTZ 2.8 CTDi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3418
+Chevrolet Trailblazer LTZ 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4874
+Chevrolet Trailblazer LTZ 2.8 CTDi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1753
+Chevrolet Trailblazer LTZ 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1552
+Chevrolet Trailblazer LTZ 2.8 CTDi
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1553
+Chevrolet Zafira Comfort 2.0 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3900
+Chevrolet Zafira Expression 2.0 8V AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3898
+Chevrolet Zafira Elegance 2.0 8V AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10880
+Chevrolet Zafira Elite 2.0 8V AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3899
+Chevrolet Zafira Collection 2.0 8V AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4610
+Chevrolet Zafira Comfort 2.0 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9911
+Chevrolet Zafira Elite 2.0 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10790
+Chevrolet Zafira Expression 2.0 8V AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10878
+Chevrolet Zafira Elegance 2.0 8V AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10879
+Chevrolet Zafira Elite 2.0 8V AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10791
+Chevrolet Zafira Comfort 2.0 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=12809
+Chevrolet Zafira Elegance 2.0 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11451
+Chevrolet Zafira Elite 2.0 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1911
+Chevrolet Zafira Elite 2.0 8V AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1448
+Chevrolet Zafira Elegance 2.0 8V AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11450
+Chevrolet Zafira Expression 2.0 8V AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1007
+Chrysler Pacifica Limited 3.6 V6 Hybrid
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=18343
+Chrysler Town Country Limited 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2789
+Chrysler Town Country Touring 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10519
+Chrysler Town Country Limited 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10520
+Chrysler Town Country Touring 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10517
+Chrysler Town Country Limited 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10518
+Chrysler Town Country Touring 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4457
+Chrysler Town Country Limited 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2193
+Chrysler Town Country Limited 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10824
+Chrysler Town Country Limited 3.8 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10825
+Citroen C4 Picasso Grand Intensive 1.6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9122
+Citroen C4 Picasso Grand Seduction 1.6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7381
+Citroen C4 Picasso Grand Intensive 1.6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7382
+Citroen C4 Picasso Grand Seduction 1.6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7102
+Citroen C4 Picasso Grand Intensive 1.6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7103
+Citroen C4 Picasso Grand Seduction 1.6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4181
+Citroen C4 Picasso Grand Intensive 1.6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4180
+Citroen C4 Picasso Grand 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2860
+Citroen C4 Picasso Grand 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11838
+Citroen C4 Picasso Grand 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11184
+Citroen C4 Picasso Grand 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4314
+Citroen C4 Picasso Grand 2.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8964
+Dodge Durango Limited 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2644
+Dodge Durango Crew 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1606
+Dodge Durango Citadel 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1619
+Dodge Journey R/T Blacktop 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9997
+Dodge Journey R/T 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8378
+Dodge Journey R/T 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7225
+Dodge Journey R/T 3.6 V6 AWD
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11673
+Dodge Journey SXT 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2786
+Dodge Journey R/T 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2787
+Dodge Journey Crossroad 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4060
+Dodge Journey R/T 3.6 V6 AWD
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11672
+Dodge Journey SXT 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4923
+Dodge Journey R/T 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4924
+Dodge Journey Crossroad 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2292
+Dodge Journey R/T 3.6 V6 AWD
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2436
+Dodge Journey SXT 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4922
+Dodge Journey R/T 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4921
+Dodge Journey SXT 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1298
+Dodge Journey R/T 3.6 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2339
+Dodge Journey SXT 2.7 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9297
+Dodge Journey R/T 2.7 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9296
+Dodge Journey SXT 2.7 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11419
+Dodge Journey R/T 2.7 V6
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4165
+Fiat 500 Cult 1.4 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8101
+Fiat 500 Cult 1.4 8V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3386
+Fiat 500 Cult 1.4 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3385
+Fiat 500 Cabriolet 1.4 8V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3388
+Fiat 500 Cabriolet 1.4 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3387
+Fiat 500 Cabriolet 1.4 16V AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3390
+Fiat 500 Cult 1.4 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4841
+Fiat 500 Cult 1.4 8V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4842
+Fiat 500 Cabriolet 1.4 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2216
+Fiat 500 Cabriolet 1.4 8V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2217
+Fiat 500 Cult 1.4 8V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11181
+Fiat 500 Cult 1.4 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9685
+Fiat 500 Gucci 1.4 16V AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4692
+Fiat 500 Cabriolet 1.4 16V AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1545
+Fiat 500 Prima Edizione 1.4 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7109
+Fiat 500 Sport Air 1.4 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1240
+Fiat 500 Cult 1.4 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1238
+Fiat 500 Cult 1.4 8V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2323
+Fiat 500 Sport Air 1.4 16V AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4428
+Fiat 500 Lounge Air 1.4 16V AT
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1239
+Fiat Bravo Essence 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2532
+Fiat Bravo Blackmotion 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2530
+Fiat Bravo Essence 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2528
+Fiat Bravo Blackmotion 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2534
+Fiat Bravo T-Jet 1.4 Turbo
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2531
+Fiat Bravo Sporting 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2533
+Fiat Bravo Sporting 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2529
+Fiat Bravo Essence 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11665
+Fiat Bravo Essence 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11666
+Fiat Bravo Blackmotion 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11669
+Fiat Bravo Blackmotion 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11670
+Fiat Bravo Sporting 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11667
+Fiat Bravo T-Jet 1.4 Turbo
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11671
+Fiat Bravo Sporting 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11668
+Fiat Bravo Absolute 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4794
+Fiat Bravo Essence 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4790
+Fiat Bravo Essence 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4791
+Fiat Bravo Wolverine 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4796
+Fiat Bravo Wolverine 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1700
+Fiat Bravo T-Jet 1.4 Turbo
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4795
+Fiat Bravo Sporting 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4793
+Fiat Bravo Sporting 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4792
+Fiat Bravo Essence 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4534
+Fiat Bravo Essence 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4535
+Fiat Bravo Absolute 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4536
+Fiat Bravo Sporting 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1435
+Fiat Bravo Sporting 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4576
+Fiat Bravo T-Jet 1.4 Turbo
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4537
+Fiat Bravo Absolute 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8313
+Fiat Bravo Essence 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8311
+Fiat Bravo Absolute 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8314
+Fiat Bravo Essence 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8312
+Fiat Bravo T-Jet 1.4 Turbo
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8315
+Fiat Bravo Essence 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4276
+Fiat Bravo Essence 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1141
+Fiat Bravo T-Jet 1.4 Turbo
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1143
+Fiat Bravo Absolute 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4277
+Fiat Bravo Absolute 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1142
+Fiat Doblo Cargo 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=15684
+Fiat Doblo Essence 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=13704
+Fiat Doblo Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11651
+Fiat Doblo Essence 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11650
+Fiat Doblo Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9723
+Fiat Doblo Essence 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9722
+Fiat Doblo Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8265
+Fiat Doblo Essence 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8264
+Fiat Doblo Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6449
+Fiat Doblo Essence 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6448
+Fiat Doblo Adventure Extreme 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5704
+Fiat Doblo Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3535
+Fiat Doblo Essence 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3534
+Fiat Doblo Cargo 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3532
+Fiat Doblo Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3533
+Fiat Doblo Cargo 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3531
+Fiat Doblo Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3416
+Fiat Doblo Essence 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3415
+Fiat Doblo Cargo 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3413
+Fiat Doblo Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3414
+Fiat Doblo Cargo 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3412
+Fiat Doblo Adventure Xingu 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=22276
+Fiat Doblo Essence 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1824
+Fiat Doblo Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1823
+Fiat Doblo Cargo 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1890
+Fiat Doblo Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5010
+Fiat Doblo Cargo 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1889
+Fiat Doblo Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11252
+Fiat Doblo Essence 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1628
+Fiat Doblo Adventure Xingu 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1629
+Fiat Doblo Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1627
+Fiat Doblo Cargo 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10935
+Fiat Doblo Cargo 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9417
+Fiat Doblo Essence 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9438
+Fiat Doblo Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10933
+Fiat Doblo Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10934
+Fiat Doblo Cargo 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10932
+Fiat Doblo Cargo 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10931
+Fiat Doblo HLX 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4214
+Fiat Doblo Cargo 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10930
+Fiat Doblo Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4213
+Fiat Doblo 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=22279
+Fiat Doblo ELX 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10928
+Fiat Doblo Cargo 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10929
+Fiat Doblo Cargo 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7564
+Fiat Doblo HLX 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1045
+Fiat Doblo Adventure 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1044
+Fiat Doblo ELX 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1046
+Fiat Doblo 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=22278
+Fiat Doblo Cargo 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7563
+Fiat Fiorino Furgão Hard Working 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=14921
+Fiat Fiorino Furgão Endurance 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=16402
+Fiat Fiorino Furgão 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=14920
+Fiat Fiorino Furgão Working 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=16403
+Fiat Fiorino Ambulância 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=15532
+Fiat Fiorino Furgão Hard Working 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11611
+Fiat Fiorino Ambulância 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=14597
+Fiat Fiorino Furgão 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11610
+Fiat Fiorino Furgão Hard Working 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9721
+Fiat Fiorino Furgão 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9720
+Fiat Fiorino Furgão Hard Working 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7714
+Fiat Fiorino Furgão 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7713
+Fiat Fiorino Furgão Hard Working 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6744
+Fiat Fiorino Furgão 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6743
+Fiat Fiorino Furgão 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2934
+Fiat Fiorino Furgão 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6742
+Fiat Fiorino Furgão 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1857
+Fiat Freemont Emotion 2.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3408
+Fiat Freemont Precision 2.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3409
+Fiat Freemont Emotion 2.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1724
+Fiat Freemont Precision 2.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1723
+Fiat Freemont Emotion 2.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6861
+Fiat Freemont Precision 2.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6862
+Fiat Freemont Emotion 2.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3417
+Fiat Freemont Precision 2.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1231
+Fiat Idea Sublime 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11241
+Fiat Idea Sublime 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11239
+Fiat Idea Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3511
+Fiat Idea Adventure Extreme 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5706
+Fiat Idea Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3512
+Fiat Idea Adventure Extreme 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5705
+Fiat Idea Adventure 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3514
+Fiat Idea Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3513
+Fiat Idea Sublime 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11240
+Fiat Idea Sublime 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11238
+Fiat Idea Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3427
+Fiat Idea Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3426
+Fiat Idea Adventure 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3429
+Fiat Idea Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3428
+Fiat Idea Sublime 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5040
+Fiat Idea Sublime 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1891
+Fiat Idea Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1689
+Fiat Idea Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4582
+Fiat Idea Adventure 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4583
+Fiat Idea Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1690
+Fiat Idea Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4588
+Fiat Idea Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4589
+Fiat Idea Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4590
+Fiat Idea Adventure 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4591
+Fiat Idea Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4339
+Fiat Idea Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4338
+Fiat Idea Adventure 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9155
+Fiat Idea Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9156
+Fiat Idea Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1111
+Fiat Idea Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4218
+Fiat Idea Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1109
+Fiat Idea Sporting 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1110
+Fiat Idea Adventure 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4220
+Fiat Idea Sporting 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4219
+Fiat Idea HLX 1.8 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10104
+Fiat Idea Adventure 1.8 8V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3926
+Fiat Idea Adventure 1.8 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9097
+Fiat Linea Blackmotion 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4660
+Fiat Linea Essence 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4384
+Fiat Linea Blackmotion 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4683
+Fiat Linea Absolute 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3069
+Fiat Linea Essence 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3068
+Fiat Linea Essence 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4584
+Fiat Linea Essence 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2030
+Fiat Linea Absolute 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2031
+Fiat Linea Essence 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4875
+Fiat Linea Essence 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4876
+Fiat Linea Absolute 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4877
+Fiat Linea Sublime 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1761
+Fiat Linea Essence 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4586
+Fiat Linea Essence 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4585
+Fiat Linea Sublime 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4661
+Fiat Linea Absolute 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4587
+Fiat Linea Absolute 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1255
+Fiat Linea Essence 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4372
+Fiat Linea T-Jet 1.4 Turbo
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7719
+Fiat Linea Essence 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1253
+Fiat Linea T-Jet 1.4 Turbo
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3067
+Fiat Linea Absolute 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4238
+Fiat Linea HLX 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3063
+Fiat Linea LX 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3065
+Fiat Linea HLX 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3066
+Fiat Linea LX 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3064
+Fiat Linea T-Jet 1.4 Turbo
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7718
+Fiat Palio Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6320
+Fiat Palio Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6321
+Fiat Palio Sporting 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6323
+Fiat Palio Sporting 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6322
+Fiat Palio Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6319
+Fiat Palio Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3119
+Fiat Palio Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3121
+Fiat Palio Sporting Blue Edition 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4681
+Fiat Palio Sporting Blue Edition 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4682
+Fiat Palio Sporting 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3122
+Fiat Palio Sporting 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3120
+Fiat Palio Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3118
+Fiat Palio Fire 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3114
+Fiat Palio Fire Way 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3116
+Fiat Palio Fire 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3115
+Fiat Palio Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5093
+Fiat Palio Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5094
+Fiat Palio Attractive Best Seller 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5192
+Fiat Palio Sporting 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5096
+Fiat Palio Sporting 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5095
+Fiat Palio Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5092
+Fiat Palio Fire 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5098
+Fiat Palio Fire Rua 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2364
+Fiat Palio Fire Way 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2088
+Fiat Palio Fire 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5097
+Fiat Palio Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3087
+Fiat Palio Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3088
+Fiat Palio Sporting 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3089
+Fiat Palio Sporting 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3090
+Fiat Palio Fire 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5039
+Fiat Palio Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3091
+Fiat Palio Fire 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1881
+Fiat Palio Itália Fire 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1771
+Fiat Palio Sporting Interlagos 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4713
+Fiat Palio Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6612
+Fiat Palio Sporting Interlagos 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4712
+Fiat Palio Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6611
+Fiat Palio Sporting 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6614
+Fiat Palio Sporting 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6613
+Fiat Palio Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6610
+Fiat Palio Economy 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11980
+Fiat Palio Economy 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6615
+Fiat Palio Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1290
+Fiat Palio Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1289
+Fiat Palio Sporting 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1291
+Fiat Palio Sporting 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1292
+Fiat Palio Economy 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10214
+Fiat Palio Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1287
+Fiat Palio Economy 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1288
+Fiat Palio Economy 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11979
+Fiat Palio Economy 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4183
+Fiat Palio Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1230
+Fiat Palio Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4208
+Fiat Palio ELX 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1050
+Fiat Palio ELX 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3861
+Fiat Palio Economy 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1073
+Fiat Palio Economy 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3857
+Fiat Palio Weekend Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11840
+Fiat Palio Weekend Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11839
+Fiat Palio Weekend Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9266
+Fiat Palio Weekend Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9265
+Fiat Palio Weekend Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8192
+Fiat Palio Weekend Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8191
+Fiat Palio Weekend Adventure 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6732
+Fiat Palio Weekend Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6731
+Fiat Palio Weekend Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6730
+Fiat Palio Weekend Trekking 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3215
+Fiat Palio Weekend Adventure Extreme 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5707
+Fiat Palio Weekend Adventure Extreme 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5708
+Fiat Palio Weekend Adventure 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3217
+Fiat Palio Weekend Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3216
+Fiat Palio Weekend Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3214
+Fiat Palio Weekend Trekking 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3094
+Fiat Palio Weekend Adventure 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3096
+Fiat Palio Weekend Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3095
+Fiat Palio Weekend Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3093
+Fiat Palio Weekend Trekking 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7935
+Fiat Palio Weekend Adventure 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7937
+Fiat Palio Weekend Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7936
+Fiat Palio Weekend Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7934
+Fiat Palio Weekend Trekking 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1444
+Fiat Palio Weekend Trekking 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1444
+Fiat Palio Weekend Adventure 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1443
+Fiat Palio Weekend Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2827
+Fiat Palio Weekend Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1445
+Fiat Palio Weekend Adventure 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9224
+Fiat Palio Weekend Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9223
+Fiat Palio Weekend Trekking 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9222
+Fiat Palio Weekend Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9221
+Fiat Palio Weekend Adventure 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4210
+Fiat Palio Weekend Adventure 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1269
+Fiat Palio Weekend Trekking 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1171
+Fiat Palio Weekend Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4207
+Fiat Palio Weekend Trekking 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11251
+Fiat Palio Weekend Trekking 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1094
+Fiat Palio Weekend Adventure 1.8 8V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3927
+Fiat Palio Weekend Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11444
+Fiat Palio Weekend Adventure 1.8 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9277
+Fiat Palio Weekend Trekking 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9275
+Fiat Palio Weekend ELX 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9276
+Fiat Punto Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6093
+Fiat Punto Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6092
+Fiat Punto Itália 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11243
+Fiat Punto Blackmotion 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6094
+Fiat Punto Blackmotion 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6095
+Fiat Punto Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6091
+Fiat Punto Essence SP 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=22556
+Fiat Punto Essence SP 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=22518
+Fiat Punto Sporting 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3076
+Fiat Punto Sporting 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3072
+Fiat Punto Blackmotion 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3077
+Fiat Punto Blackmotion 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3073
+Fiat Punto Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3071
+Fiat Punto Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3075
+Fiat Punto T-Jet 1.4 Turbo
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3074
+Fiat Punto Itália 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11242
+Fiat Punto Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3070
+Fiat Punto Essence SP 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11247
+Fiat Punto Sporting 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5104
+Fiat Punto Sporting 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5105
+Fiat Punto Blackmotion 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5106
+Fiat Punto Essence SP 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2415
+Fiat Punto Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5103
+Fiat Punto Blackmotion 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5107
+Fiat Punto Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5102
+Fiat Punto T-Jet 1.4 Turbo
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5108
+Fiat Punto Itália 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2319
+Fiat Punto Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5101
+Fiat Punto Essence SP 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=22555
+Fiat Punto Essence SP 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=22517
+Fiat Punto Sporting 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4817
+Fiat Punto Sporting 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4818
+Fiat Punto Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4816
+Fiat Punto Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4815
+Fiat Punto Blackmotion 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4846
+Fiat Punto Blackmotion 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1717
+Fiat Punto T-Jet 1.4 Turbo
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4819
+Fiat Punto Itália 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=22530
+Fiat Punto Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4814
+Fiat Punto Sporting 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4626
+Fiat Punto Sporting 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1482
+Fiat Punto Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1481
+Fiat Punto Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4627
+Fiat Punto T-Jet 1.4 Turbo
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1483
+Fiat Punto Itália 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=22631
+Fiat Punto Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1480
+Fiat Punto T-Jet 1.4 Turbo
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4375
+Fiat Punto Essence 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9095
+Fiat Punto Essence 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9091
+Fiat Punto Sporting 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9096
+Fiat Punto Sporting 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9093
+Fiat Punto Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9094
+Fiat Punto Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9090
+Fiat Punto Itália 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4374
+Fiat Punto Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9092
+Fiat Punto T-Jet 1.4 Turbo
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7673
+Fiat Punto Essence 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4202
+Fiat Punto Essence 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4203
+Fiat Punto Sporting 1.8 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2180
+Fiat Punto Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4204
+Fiat Punto Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1099
+Fiat Punto Sporting 1.8 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1100
+Fiat Punto ELX 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=12020
+Fiat Punto Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4205
+Fiat Punto 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=12019
+Fiat Punto T-Jet 1.4 Turbo
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=982
+Fiat Punto Sporting 1.8 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3972
+Fiat Punto HLX 1.8 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3973
+Fiat Punto ELX 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3971
+Fiat Punto 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3970
+Fiat Siena Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=13662
+Fiat Siena 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=16433
+Fiat Siena Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=12652
+Fiat Siena Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9198
+Fiat Siena Sublime 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7979
+Fiat Siena Sublime 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7980
+Fiat Siena Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7978
+Fiat Siena Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7977
+Fiat Siena Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7976
+Fiat Siena Sublime 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6620
+Fiat Siena Sublime 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6621
+Fiat Siena Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6619
+Fiat Siena Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6618
+Fiat Siena Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6617
+Fiat Siena Sublime 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2882
+Fiat Siena Sublime 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2884
+Fiat Siena Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2881
+Fiat Siena Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2883
+Fiat Siena Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2879
+Fiat Siena Tetrafuel 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2880
+Fiat Siena EL 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3855
+Fiat Siena EL 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3854
+Fiat Siena Sublime 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11248
+Fiat Siena Sublime 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11249
+Fiat Siena Itália 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=22274
+Fiat Siena Itália 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2240
+Fiat Siena Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5063
+Fiat Siena Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5064
+Fiat Siena Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5061
+Fiat Siena Tetrafuel 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=5062
+Fiat Siena EL 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3411
+Fiat Siena EL 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3410
+Fiat Siena Sublime 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2007
+Fiat Siena Sublime 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4789
+Fiat Siena Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4802
+Fiat Siena Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4801
+Fiat Siena Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4800
+Fiat Siena Tetrafuel 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4803
+Fiat Siena EL 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6660
+Fiat Siena EL 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6659
+Fiat Siena Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1357
+Fiat Siena Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1359
+Fiat Siena Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1355
+Fiat Siena Tetrafuel 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1358
+Fiat Siena EL 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1446
+Fiat Siena EL 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1447
+Fiat Siena Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8126
+Fiat Siena Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8127
+Fiat Siena EL 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1356
+Fiat Siena EL 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1360
+Fiat Siena Fire 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4346
+Fiat Siena Sporting 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2184
+Fiat Siena Essence 1.6 16V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4209
+Fiat Siena Essence 1.6 16V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1123
+Fiat Siena EL 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4253
+Fiat Siena EL 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8128
+Fiat Siena Fire 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8129
+Fiat Siena Attractive 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=22277
+Fiat Siena Attractive 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2187
+Fiat Siena EL 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3892
+Fiat Siena Fire 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1082
+Fiat Siena HLX 1.8 Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3925
+Fiat Siena HLX 1.8
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8132
+Fiat Siena ELX 1.4
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8131
+Fiat Siena ELX 1.0
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8130
+Fiat Stilo SP 1.8 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10936
+Fiat Stilo 1.8 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10941
+Fiat Stilo 1.8 8V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10942
+Fiat Stilo Attractive 1.8 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9281
+Fiat Stilo SP 1.8 8V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10940
+Fiat Stilo Attractive 1.8 8V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10938
+Fiat Stilo Sporting 1.8 8V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10939
+Fiat Stilo Blackmotion 1.8 8V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9282
+Fiat Stilo Sporting 1.8 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10937
+Fiat Stilo SP 1.8 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11491
+Fiat Stilo 1.8 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=10340
+Fiat Stilo 1.8 8V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11493
+Fiat Stilo Attractive 1.8 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1055
+Fiat Stilo Attractive 1.8 8V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=3728
+Fiat Stilo Sporting 1.8 8V
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8479
+Fiat Stilo SP 1.8 8V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11492
+Fiat Stilo Sporting 1.8 8V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=8478
+Fiat Stilo Blackmotion 1.8 8V Dualogic
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=1977
+Fiat Strada Adventure 1.8 16V CD
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11586
+Fiat Strada Adventure 1.8 16V CD
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=9529
+Fiat Strada Adventure 1.8 16V CE
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7972
+Fiat Strada Adventure 1.8 16V CD
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=7974
+Fiat Strada Adventure 1.8 16V Dualogic CD
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6780
+Fiat Strada Adventure 1.8 16V CD
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6779
+Fiat Strada Adventure 1.8 16V CE
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=6778
+Fiat Strada Adventure Extreme 1.8 16V Dualogic CE
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4685
+Fiat Strada Adventure 1.8 16V Dualogic CE
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2917
+Fiat Strada Adventure 1.8 16V Dualogic CD
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2918
+Fiat Strada Trekking 1.6 16V CD
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2914
+Fiat Strada Adventure Extreme 1.8 16V CD
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4581
+Fiat Strada Adventure Extreme 1.8 16V Dualogic CD
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4684
+Fiat Strada Adventure Extreme 1.8 16V CE
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=4580
+Fiat Strada Adventure 1.8 16V CE
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2915
+Fiat Strada Adventure 1.8 16V CD
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2916
+Fiat Strada Working 1.4 CS
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2911
+Fiat Strada Hard Working 1.4 CD
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=11229
+Fiat Strada Working 1.4 CE
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2912
+Fiat Strada Working 1.4 CD
+'NoneType' object has no attribute 'find_next_sibling'
+https://carrosnaweb.com.br/fichadetalhe.asp?codigo=2913
+Fiat Strada Adventure 1.8 16V Dualogic CE
+'NoneType' object has no attribute 'find_next_sibling'
+Fiat Strada Adventure 1.8 16V Dualogic CE
+'NoneType' object has no attribute 'find_next_sibling'
+Fiat Strada Adventure 1.8 16V Dualogic CE
+'NoneType' object has no attribute 'find_next_sibling'
+Fiat Strada Adventure 1.8 16V Dualogic CE
+'NoneType' object has no attribute 'find_next_sibling'

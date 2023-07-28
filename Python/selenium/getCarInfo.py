@@ -1,11 +1,16 @@
 from bs4 import BeautifulSoup
 import re
 import pandas as pd
+import time
 
 def getCarInfo(pagina):
-    try:
         doc = BeautifulSoup(pagina, "html.parser")
-
+        year_td = doc.find_all(["td"], bgcolor="#ffffff")
+        for td in year_td:
+            print(td.get_text())
+        '''year = year_td.find_next_sibling('td').get_text(strip=True)
+        print("Ano: " + year)'''
+        '''
         name = doc.find(["font"], size="4", face="arial", color="darkred")
         name = name.get_text(strip=True)
         def separate_words(text):
@@ -140,6 +145,8 @@ def getCarInfo(pagina):
         ##
         ## Potência = Potência máxima
         ##
+        '''
+        propulsão = 2
         if propulsão == 'Eletricidade/gasolina':
             potência_td = doc.find(["td"], string="Potência combinada")
             potência1 = potência_td.find_next_sibling('td').get_text(strip=True)
@@ -161,9 +168,16 @@ def getCarInfo(pagina):
                     potência = potência_td.find_next_sibling('td').get_text(strip=True)
                     print("Potencia: " + potência)
                 except:
-                    potência_td = doc.find(["td"], string="Potência")
-                    potência = potência_td.find_next_sibling('td').get_text(strip=True)
-                    print("Potencia: " + potência)
+                    try:
+                        potência_td = doc.find(["td"], string="Potência")
+                        potência = potência_td.find_next_sibling('td').get_text(strip=True)
+                        print("Potencia: " + potência)
+                    except:
+                        print("Chegou aqui no braço")
+                        time.sleep(20)
+                        potência_td = doc.find(["td"], string="Potência gráfico")
+                        potência = potência_td.find_next_sibling('td').get_text(strip=True)
+                        print("Potencia: " + potência)
             
 
 
@@ -180,14 +194,19 @@ def getCarInfo(pagina):
                 torque = torque_td.find_next_sibling('td').get_text(strip=True)
                 print("Torque: " + torque)
             except:
-                torque_td = doc.find(["td"], string="Torque")
-                torque = torque_td.find_next_sibling('td').get_text(strip=True)
-                print("Torque: " + torque)
+                try:
+                    torque_td = doc.find(["td"], string="Torque")
+                    torque = torque_td.find_next_sibling('td').get_text(strip=True)
+                    print("Torque: " + torque)
+                except:
+                    torque_td = doc.find(["td"], string="Torque gráfico")
+                    torque = torque_td.find_next_sibling('td').get_text(strip=True)
+                    print("Torque: " + torque)
 
         ##
         ## Velocidade Máxima = Velocidade máxima
         ##
-
+        '''
         velocidade_td = doc.find(["td"], string="Velocidade máxima")
         velocidade = velocidade_td.find_next_sibling('td').get_text(strip=True)
         print("velocidade: " + velocidade)
@@ -633,7 +652,9 @@ def getCarInfo(pagina):
 
         with open(filename, "a") as f:
             for wrong in erro2:
-                f.write(wrong + "\n")
+                f.write(wrong + "\n")'''
+
+        return 'error'
         
         
 
