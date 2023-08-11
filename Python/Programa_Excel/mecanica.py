@@ -71,7 +71,7 @@ def getLista(linha):
     lista.append(tanque)
 
     cambio = df.at[linha, "Câmbio"]
-    cambio = f"Câmbio - "
+    cambio = f"Câmbio - {cambio}"
     lista.append(cambio)
 
     tracao = df.at[linha, "Tração"]
