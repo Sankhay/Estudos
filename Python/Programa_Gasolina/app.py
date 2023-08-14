@@ -2,7 +2,7 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 import customtkinter
 from selenium.webdriver.chrome.options import Options
-from diesel import getDiesel
+from diesel import getDiesel, getEnergia
 import pandas as pd
 
 customtkinter.set_appearance_mode("dark")
@@ -108,20 +108,21 @@ def gasolina():
 
     if combustivel == "Diesel":
         valorDoCombustivel = getDiesel(estado)
+        litrosPorKm = extrair_numeros(df.at[linha, "Consumo cidade (Km/L)"])
+        km = (kmPorMes / litrosPorKm)
+        total = valorDoCombustivel * km
+        texto = f"""Considerando que você percorre por mês ({kmPorMes} km), o valor médio atual da gasolina (R$ {trocarFloatBr(valorDoCombustivel)}) e o consumo do veículo na cidade ({trocarFloatBr(litrosPorKm)} Km/l) seu custo mensal será de aproximadamente R$ {int(total)},00."""
+
+    elif combustivel == "Eletricidade":
+        texto = getEnergia(linha, kmPorMes)
     else:
         valorDoCombustivel = getGasosa(estado)
+        litrosPorKm = extrair_numeros(df.at[linha, "Consumo cidade (Km/L)"])
+        km = (kmPorMes / litrosPorKm)
+        total = valorDoCombustivel * km
+        texto = f"""Considerando que você percorre por mês ({kmPorMes} km), o valor médio atual da gasolina (R$ {trocarFloatBr(valorDoCombustivel)}) e o consumo do veículo na cidade ({trocarFloatBr(litrosPorKm)} Km/l) seu custo mensal será de aproximadamente R$ {int(total)},00."""
     
-    litrosPorKm = extrair_numeros(df.at[linha, "Consumo cidade (Km/L)"])
-    
-
-    km = (kmPorMes / litrosPorKm)
-
-    total = valorDoCombustivel * km
-
     app = customtkinter.CTk()
-
-    texto = f"""Considerando que você percorre por mês ({kmPorMes} km), o valor médio atual da gasolina (R$ {trocarFloatBr(valorDoCombustivel)}) e o consumo do veículo na cidade ({trocarFloatBr(litrosPorKm)} Km/l) seu custo mensal será de aproximadamente R$ {int(total)},00."""
-
     # Adicione um texto à janela
     textbox = customtkinter.CTkTextbox(master=app, width=300)
     textbox.pack(pady=100, padx=100)
@@ -132,14 +133,6 @@ def gasolina():
 
     # Mostre a janela
     app.mainloop()
-
-
-    print(total)
-
-
-    
-
-
 
 frame = customtkinter.CTkFrame(master=root)
 frame.pack(pady=20, padx= 60, fill="both", expand=True)
