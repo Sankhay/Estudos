@@ -50,6 +50,45 @@ def abrev_to_nome_estado(abreviacao):
     else:
         return "Abreviação de estado não reconhecida."
     
+def abrevParaPranilha(abrev):
+    estados = {
+        'AC': 'Acre',
+        'AL': 'Alagoas',
+        'AM': 'Amazonas',
+        'AP': 'Amapá',
+        'BA': 'Bahia',
+        'CE': 'Ceará',
+        'DF': 'Distrito Federal',
+        'ES': 'Espírito Santo',
+        'GO': 'Goiás',
+        'MA': 'Maranhão',
+        'MG': 'Minas Gerais',
+        'MS': 'Mato Grosso do Sul',
+        'MT': 'Mato Grosso',
+        'PA': 'Pará',
+        'PB': 'Paraíba',
+        'PE': 'Pernambuco',
+        'PI': 'Piauí',
+        'PR': 'Paraná',
+        'RJ': 'Rio de Janeiro',
+        'RN': 'Rio Grande do Norte',
+        'RO': 'Rondônia',
+        'RR': 'Roraima',
+        'RS': 'Rio Grande do Sul',
+        'SC': 'Santa Catarina',
+        'SE': 'Sergipe',
+        'SP': 'São Paulo',
+        'TO': 'Tocantins'
+    }
+
+    nome_estado = estados.get(abrev.upper())
+
+    if nome_estado:
+        return nome_estado
+    else:
+        return "Abreviação de estado não reconhecida"
+
+    
 def extrair_numeros(texto):
     number = ""
     for char in texto:
@@ -122,6 +161,14 @@ def gasolina():
         total = valorDoCombustivel * km
         texto = f"""Considerando que você percorre por mês ({kmPorMes} km), o valor médio atual da gasolina (R$ {trocarFloatBr(valorDoCombustivel)}) e o consumo do veículo na cidade ({trocarFloatBr(litrosPorKm)} Km/l) seu custo mensal será de aproximadamente R$ {int(total)},00."""
     
+    df_metricas = pd.read_excel(nome_arquivo, sheet_name="Métricas", usecols=[12, 13])
+    
+    estado = df_metricas[df_metricas.iloc[:, 0] == abrevParaPranilha(estado)].iloc[0]
+
+    valorDoCarro = float(entry4.get())
+
+    texto = texto + "\n\n\n" + f"O valor do IPVA do carro sera de R${float(estado.iloc[1]) * valorDoCarro}"
+
     app = customtkinter.CTk()
     # Adicione um texto à janela
     textbox = customtkinter.CTkTextbox(master=app, width=300)
@@ -148,6 +195,9 @@ entry2.pack(pady=12, padx=10)
 
 entry3 = customtkinter.CTkEntry(master=frame, placeholder_text="Quanto a pessoa Roda ao Mes")
 entry3.pack(pady=12, padx=10)
+
+entry4 = customtkinter.CTkEntry(master=frame, placeholder_text="Qual o valor do carro?")
+entry4.pack(pady=12, padx=10)
 
 button = customtkinter.CTkButton(master=frame, text="Pegar", command=gasolina)
 
